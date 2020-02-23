@@ -11,13 +11,13 @@
                             <div class="table-toolbar">
                                 <div class="row">
                                     <div class="col-md-6">
-                                        <div class="btn-group">
+                                        <!--<div class="btn-group">
                                             <a href="#" class="btn btn-primary add_calendar"> ADD NEW EVENT
                                                 <i class="fa fa-plus"></i>
                                             </a>
                                             <br>
                                             <br>
-                                        </div>
+                                        </div>-->
                                     </div>
                                 </div>
                             </div>
